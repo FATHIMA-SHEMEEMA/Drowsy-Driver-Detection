@@ -1,0 +1,2 @@
+# Drowsy-Driver-Detection
+Artificial Intelligence and image processing technology used to make the system which contain face recognition, emotion recognition, drowsiness detection. In face recognition conventional KNN algorithm is used. In this python project we will be using OpenCV for gathering the images from webcam and feed them into a Deep Learning model which will classify whether the person's eyes are 'Open' or 'Closed'
